@@ -1,0 +1,1412 @@
+fileFormatVersion: 2
+guid: 9bf5b87fc17c12043aa0b9d32c18429d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5417887990720317780
+    second: Robbie_walk-Sheet_0
+  - first:
+      213: 8378829999490460668
+    second: Robbie_walk-Sheet_1
+  - first:
+      213: -5180075153881340739
+    second: Robbie_walk-Sheet_2
+  - first:
+      213: 4244064706529377416
+    second: Robbie_walk-Sheet_3
+  - first:
+      213: 6101854538925600776
+    second: Robbie_walk-Sheet_4
+  - first:
+      213: 8473642181198794770
+    second: Robbie_walk-Sheet_5
+  - first:
+      213: 3374608590483163140
+    second: Robbie_walk-Sheet_6
+  - first:
+      213: 1468808533937091803
+    second: Robbie_walk-Sheet_7
+  - first:
+      213: 9073465524575576199
+    second: Robbie_walk-Sheet_8
+  - first:
+      213: 8246882563471152811
+    second: Robbie_walk-Sheet_9
+  - first:
+      213: 8626792301409696164
+    second: Robbie_walk-Sheet_10
+  - first:
+      213: -874046830611298429
+    second: Robbie_walk-Sheet_11
+  - first:
+      213: -8728564585307036935
+    second: Robbie_walk-Sheet_12
+  - first:
+      213: 6048882703583495013
+    second: Robbie_walk-Sheet_13
+  - first:
+      213: 9137908777435811955
+    second: Robbie_walk-Sheet_14
+  - first:
+      213: -485940892869375169
+    second: Robbie_walk-Sheet_15
+  - first:
+      213: -6588367821524340045
+    second: Robbie_walk-Sheet_16
+  - first:
+      213: -6124173484268437444
+    second: Robbie_walk-Sheet_17
+  - first:
+      213: 1090420720943878993
+    second: Robbie_walk-Sheet_18
+  - first:
+      213: 7449907754161380738
+    second: Robbie_walk-Sheet_19
+  - first:
+      213: 3474858179608879192
+    second: Robbie_walk-Sheet_20
+  - first:
+      213: -8467109154163558068
+    second: Robbie_walk-Sheet_21
+  - first:
+      213: -8091034574145308779
+    second: Robbie_walk-Sheet_22
+  - first:
+      213: -8427804243662177963
+    second: Robbie_walk-Sheet_23
+  - first:
+      213: 6944947276576991430
+    second: Robbie_walk-Sheet_24
+  - first:
+      213: 2119916143216940372
+    second: Robbie_walk-Sheet_25
+  - first:
+      213: -1787968708235704011
+    second: Robbie_walk-Sheet_26
+  - first:
+      213: 8495143067142005619
+    second: Robbie_walk-Sheet_27
+  - first:
+      213: -6996081734472347925
+    second: Robbie_walk-Sheet_28
+  - first:
+      213: -3562257775443229628
+    second: Robbie_walk-Sheet_29
+  - first:
+      213: 1336871735082285154
+    second: Robbie_walk-Sheet_30
+  - first:
+      213: 4421809883676655945
+    second: Robbie_walk-Sheet_31
+  - first:
+      213: 5132440120531862900
+    second: Robbie_walk-Sheet_32
+  - first:
+      213: 8039165013546425850
+    second: Robbie_walk-Sheet_33
+  - first:
+      213: 8661821511386975554
+    second: Robbie_walk-Sheet_34
+  - first:
+      213: -2135189087396517660
+    second: Robbie_walk-Sheet_35
+  - first:
+      213: -3100322016732080433
+    second: Robbie_walk-Sheet_36
+  - first:
+      213: 1572093965523627277
+    second: Robbie_walk-Sheet_37
+  - first:
+      213: -6992141380568389146
+    second: Robbie_walk-Sheet_38
+  - first:
+      213: -7192101262150927296
+    second: Robbie_walk-Sheet_39
+  - first:
+      213: 735885506753825044
+    second: Robbie_walk-Sheet_40
+  - first:
+      213: -8616491966551471212
+    second: Robbie_walk-Sheet_41
+  - first:
+      213: 5289458686579051248
+    second: Robbie_walk-Sheet_42
+  - first:
+      213: 159378534207141297
+    second: Robbie_walk-Sheet_43
+  - first:
+      213: 6390712284829360874
+    second: Robbie_walk-Sheet_44
+  - first:
+      213: 9145900295712792699
+    second: Robbie_walk-Sheet_45
+  - first:
+      213: -3179071464158161792
+    second: Robbie_walk-Sheet_46
+  - first:
+      213: 8112827157978951406
+    second: Robbie_walk-Sheet_47
+  - first:
+      213: 4121314070696146264
+    second: Robbie_walk-Sheet_48
+  - first:
+      213: -295301922412878593
+    second: Robbie_walk-Sheet_49
+  - first:
+      213: 3721774254636105388
+    second: Robbie_walk-Sheet_50
+  - first:
+      213: -9213820185764011205
+    second: Robbie_walk-Sheet_51
+  - first:
+      213: -7797551783689699757
+    second: Robbie_walk-Sheet_52
+  - first:
+      213: -2925635201532822276
+    second: Robbie_walk-Sheet_53
+  - first:
+      213: -6274745266507495863
+    second: Robbie_walk-Sheet_54
+  - first:
+      213: 7335794633801627269
+    second: Robbie_walk-Sheet_55
+  - first:
+      213: -6590614407199444720
+    second: Robbie_walk-Sheet_56
+  - first:
+      213: -7206160274984604383
+    second: Robbie_walk-Sheet_57
+  - first:
+      213: 4892157246230885490
+    second: Robbie_walk-Sheet_58
+  - first:
+      213: 405669890993169209
+    second: Robbie_walk-Sheet_59
+  - first:
+      213: 6721970532395368
+    second: Robbie_walk-Sheet_60
+  - first:
+      213: -4470048214829091224
+    second: Robbie_walk-Sheet_61
+  - first:
+      213: 4768025613724817311
+    second: Robbie_walk-Sheet_62
+  - first:
+      213: -7929279893191363820
+    second: Robbie_walk-Sheet_63
+  - first:
+      213: -3589742062678563508
+    second: Robbie_walk-Sheet_64
+  - first:
+      213: 4160747099787951398
+    second: Robbie_walk-Sheet_65
+  - first:
+      213: -4911442788736537710
+    second: Robbie_walk-Sheet_66
+  - first:
+      213: 1521066792119331141
+    second: Robbie_walk-Sheet_67
+  - first:
+      213: 8182890631470391883
+    second: Robbie_walk-Sheet_68
+  - first:
+      213: -6256543351159194535
+    second: Robbie_walk-Sheet_69
+  - first:
+      213: -7045991366020969257
+    second: Robbie_walk-Sheet_70
+  - first:
+      213: -5474558214430005518
+    second: Robbie_walk-Sheet_71
+  - first:
+      213: 8768320555433281991
+    second: Robbie_walk-Sheet_72
+  - first:
+      213: -4028393799186146716
+    second: Robbie_walk-Sheet_73
+  - first:
+      213: -4660465088308339703
+    second: Robbie_walk-Sheet_74
+  - first:
+      213: -6044970676488786958
+    second: Robbie_walk-Sheet_75
+  - first:
+      213: 9213345672651088683
+    second: Robbie_walk-Sheet_76
+  - first:
+      213: -2072214318950479204
+    second: Robbie_walk-Sheet_77
+  - first:
+      213: 6173537225885142577
+    second: Robbie_walk-Sheet_78
+  - first:
+      213: -2146025985096562118
+    second: Robbie_walk-Sheet_79
+  - first:
+      213: 5572132749075062789
+    second: Robbie_walk-Sheet_80
+  - first:
+      213: -3970726887148756718
+    second: Robbie_walk-Sheet_81
+  - first:
+      213: -894854785912671589
+    second: Robbie_walk-Sheet_82
+  - first:
+      213: 8967806739569177594
+    second: Robbie_walk-Sheet_83
+  - first:
+      213: -6575261313133772781
+    second: Robbie_walk-Sheet_84
+  - first:
+      213: -1473489867454283639
+    second: Robbie_walk-Sheet_85
+  - first:
+      213: 8798259954980178811
+    second: Robbie_walk-Sheet_86
+  - first:
+      213: 7554962214867805276
+    second: Robbie_walk-Sheet_87
+  - first:
+      213: -2131694499855608921
+    second: Robbie_walk-Sheet_88
+  - first:
+      213: 9080496982694200793
+    second: Robbie_walk-Sheet_89
+  - first:
+      213: -1884775881514339595
+    second: Robbie_walk-Sheet_90
+  - first:
+      213: 3885287493537338706
+    second: Robbie_walk-Sheet_91
+  - first:
+      213: 5456480303357071656
+    second: Robbie_walk-Sheet_92
+  - first:
+      213: -121464953899008917
+    second: Robbie_walk-Sheet_93
+  - first:
+      213: -8501248507325777204
+    second: Robbie_walk-Sheet_94
+  - first:
+      213: 1492189208525738247
+    second: Robbie_walk-Sheet_95
+  - first:
+      213: 5749743525920525610
+    second: Robbie_walk-Sheet_96
+  - first:
+      213: 8301489220357549232
+    second: Robbie_walk-Sheet_97
+  - first:
+      213: 1219617884103000744
+    second: Robbie_walk-Sheet_0
+  - first:
+      213: 73319886939041094
+    second: Robbie_walk-Sheet_1
+  - first:
+      213: 4096107454368133792
+    second: Robbie_walk-Sheet_2
+  - first:
+      213: 1639291535119919985
+    second: Robbie_walk-Sheet_3
+  - first:
+      213: 8289991873891511531
+    second: Robbie_walk-Sheet_4
+  - first:
+      213: -7797849314435169527
+    second: Robbie_walk-Sheet_5
+  - first:
+      213: 7140751162652053379
+    second: Robbie_walk-Sheet_6
+  - first:
+      213: -2352670253028645206
+    second: Robbie_walk-Sheet_7
+  - first:
+      213: 2872684535218812700
+    second: Robbie_walk-Sheet_8
+  - first:
+      213: -7387614841938467473
+    second: Robbie_walk-Sheet_9
+  - first:
+      213: 3115394999705823369
+    second: Robbie_walk-Sheet_10
+  - first:
+      213: 6057874414980558099
+    second: Robbie_walk-Sheet_11
+  - first:
+      213: 3826474970022132650
+    second: Robbie_walk-Sheet_12
+  - first:
+      213: 5975134888223337786
+    second: Robbie_walk-Sheet_13
+  - first:
+      213: -4872002877230019033
+    second: Robbie_walk-Sheet_14
+  - first:
+      213: -1035310660325946872
+    second: Robbie_walk-Sheet_15
+  - first:
+      213: -8949862568007513972
+    second: Robbie_walk-Sheet_16
+  - first:
+      213: -8863201170938150379
+    second: Robbie_walk-Sheet_17
+  - first:
+      213: 2018058716123378121
+    second: Robbie_walk-Sheet_18
+  - first:
+      213: 268354356493281419
+    second: Robbie_walk-Sheet_19
+  - first:
+      213: -3784287622814861010
+    second: Robbie_walk-Sheet_20
+  - first:
+      213: -3856624027118762342
+    second: Robbie_walk-Sheet_21
+  - first:
+      213: 7194005941885044282
+    second: Robbie_walk-Sheet_22
+  - first:
+      213: 8549281799077495911
+    second: Robbie_walk-Sheet_23
+  - first:
+      213: -8605363622284447769
+    second: Robbie_walk-Sheet_24
+  - first:
+      213: 1863856476393454173
+    second: Robbie_walk-Sheet_25
+  - first:
+      213: 1212729903716711785
+    second: Robbie_walk-Sheet_26
+  - first:
+      213: -3956045339040479722
+    second: Robbie_walk-Sheet_27
+  - first:
+      213: -1184727719708844806
+    second: Robbie_walk-Sheet_28
+  - first:
+      213: -5703343092157393450
+    second: Robbie_walk-Sheet_29
+  - first:
+      213: 5017772878524226548
+    second: Robbie_walk-Sheet_30
+  - first:
+      213: -66814834076976376
+    second: Robbie_walk-Sheet_31
+  - first:
+      213: 562120216706259625
+    second: Robbie_walk-Sheet_32
+  - first:
+      213: 1178388302876993524
+    second: Robbie_walk-Sheet_33
+  - first:
+      213: -7596673526493027774
+    second: Robbie_walk-Sheet_34
+  - first:
+      213: -6731863422742294064
+    second: Robbie_walk-Sheet_35
+  - first:
+      213: 1973867445736421460
+    second: Robbie_walk-Sheet_36
+  - first:
+      213: 8501181121255729552
+    second: Robbie_walk-Sheet_37
+  - first:
+      213: -7549091091644251852
+    second: Robbie_walk-Sheet_38
+  - first:
+      213: -7486784928489290736
+    second: Robbie_walk-Sheet_39
+  - first:
+      213: 4944794220008130715
+    second: Robbie_walk-Sheet_40
+  - first:
+      213: 144788586304913908
+    second: Robbie_walk-Sheet_41
+  - first:
+      213: 1592573660379932213
+    second: Robbie_walk-Sheet_42
+  - first:
+      213: 6523276579129256184
+    second: Robbie_walk-Sheet_43
+  - first:
+      213: 4890400639597462191
+    second: Robbie_walk-Sheet_44
+  - first:
+      213: -5833925076334659985
+    second: Robbie_walk-Sheet_45
+  - first:
+      213: -4610787089933924003
+    second: Robbie_walk-Sheet_46
+  - first:
+      213: -3192411229582732484
+    second: Robbie_walk-Sheet_47
+  - first:
+      213: 3592930876206599421
+    second: Robbie_walk-Sheet_48
+  - first:
+      213: -6951708750284918859
+    second: Robbie_walk-Sheet_49
+  - first:
+      213: 3532932840920533840
+    second: Robbie_walk-Sheet_50
+  - first:
+      213: 5240601094137619466
+    second: Robbie_walk-Sheet_51
+  - first:
+      213: -8287874546218204938
+    second: Robbie_walk-Sheet_52
+  - first:
+      213: 225576775244447471
+    second: Robbie_walk-Sheet_53
+  - first:
+      213: -8523905016295318565
+    second: Robbie_walk-Sheet_54
+  - first:
+      213: -3296901885916205406
+    second: Robbie_walk-Sheet_55
+  - first:
+      213: -8221711456726970666
+    second: Robbie_walk-Sheet_56
+  - first:
+      213: 527861239385641035
+    second: Robbie_walk-Sheet_57
+  - first:
+      213: 2444929474443569034
+    second: Robbie_walk-Sheet_58
+  - first:
+      213: -8641642191112727755
+    second: Robbie_walk-Sheet_59
+  - first:
+      213: -1968402863535801659
+    second: Robbie_walk-Sheet_60
+  - first:
+      213: -1326624709772631184
+    second: Robbie_walk-Sheet_61
+  - first:
+      213: -7809400281065742428
+    second: Robbie_walk-Sheet_62
+  - first:
+      213: 3363133361057094045
+    second: Robbie_walk-Sheet_63
+  - first:
+      213: 4436769146246254141
+    second: Robbie_walk-Sheet_64
+  - first:
+      213: 182394475573173723
+    second: Robbie_walk-Sheet_65
+  - first:
+      213: -3267883198578404999
+    second: Robbie_walk-Sheet_66
+  - first:
+      213: 632672503380080538
+    second: Robbie_walk-Sheet_67
+  - first:
+      213: 7378994245465161797
+    second: Robbie_walk-Sheet_68
+  - first:
+      213: 8700480626567223190
+    second: Robbie_walk-Sheet_69
+  - first:
+      213: -8645658653216509742
+    second: Robbie_walk-Sheet_70
+  - first:
+      213: -1043788875175290046
+    second: Robbie_walk-Sheet_71
+  - first:
+      213: 2515981703804921327
+    second: Robbie_walk-Sheet_72
+  - first:
+      213: -3236869139122055816
+    second: Robbie_walk-Sheet_73
+  - first:
+      213: -5643193819716641813
+    second: Robbie_walk-Sheet_74
+  - first:
+      213: 5056484453808561240
+    second: Robbie_walk-Sheet_75
+  - first:
+      213: 3533255623591963673
+    second: Robbie_walk-Sheet_76
+  - first:
+      213: -3358435189197714507
+    second: Robbie_walk-Sheet_77
+  - first:
+      213: -7950954090591814651
+    second: Robbie_walk-Sheet_78
+  - first:
+      213: -2329623758837191333
+    second: Robbie_walk-Sheet_79
+  - first:
+      213: -4202371401889603834
+    second: Robbie_walk-Sheet_80
+  - first:
+      213: -4988512605372028608
+    second: Robbie_walk-Sheet_81
+  - first:
+      213: -2927375368032970909
+    second: Robbie_walk-Sheet_82
+  - first:
+      213: -6819240283602601376
+    second: Robbie_walk-Sheet_83
+  - first:
+      213: 802698420729056530
+    second: Robbie_walk-Sheet_84
+  - first:
+      213: 9038988401321735679
+    second: Robbie_walk-Sheet_85
+  - first:
+      213: -5378795741395571772
+    second: Robbie_walk-Sheet_86
+  - first:
+      213: -5106739034256610256
+    second: Robbie_walk-Sheet_87
+  - first:
+      213: -983992808498555613
+    second: Robbie_walk-Sheet_88
+  - first:
+      213: -3690431700988660678
+    second: Robbie_walk-Sheet_89
+  - first:
+      213: 3172333217942040959
+    second: Robbie_walk-Sheet_90
+  - first:
+      213: -4884188653123924856
+    second: Robbie_walk-Sheet_91
+  - first:
+      213: -3931693899483885505
+    second: Robbie_walk-Sheet_92
+  - first:
+      213: 8515243649369042936
+    second: Robbie_walk-Sheet_93
+  - first:
+      213: -5471239513386633482
+    second: Robbie_walk-Sheet_94
+  - first:
+      213: 7224154677888817948
+    second: Robbie_walk-Sheet_95
+  - first:
+      213: -3837409560389111712
+    second: Robbie_walk-Sheet_96
+  - first:
+      213: -3825765622814667316
+    second: Robbie_walk-Sheet_97
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a24ca7f004fce010800000000000000
+      internalID: 1219617884103000744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d29f77c0c740100800000000000000
+      internalID: 73319886939041094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a23173170c48d830800000000000000
+      internalID: 4096107454368133792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ba02247feefb610800000000000000
+      internalID: 1639291535119919985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becad22efa7fb0370800000000000000
+      internalID: 8289991873891511531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90381110d5978c390800000000000000
+      internalID: -7797849314435169527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f455f595b091360800000000000000
+      internalID: 7140751162652053379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6699eaed2a95fd0800000000000000
+      internalID: -2352670253028645206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17b9795d53ddd720800000000000000
+      internalID: 2872684535218812700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65aad8417be97990800000000000000
+      internalID: -7387614841938467473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9886e740f3b1c3b20800000000000000
+      internalID: 3115394999705823369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31de7d63fa4e11450800000000000000
+      internalID: 6057874414980558099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f228bd61c8edd680800000000000000
+      internalID: -8728564585307036935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563491345c2f1f350800000000000000
+      internalID: 6048882703583495013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3705cfc4e9f50de70800000000000000
+      internalID: 9137908777435811955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b4fa225579149f0800000000000000
+      internalID: -485940892869375169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b27d6c7f5a6194a0800000000000000
+      internalID: -6588367821524340045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30405fc9a0920ba0800000000000000
+      internalID: -6124173484268437444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153d59f4ed3f12f00800000000000000
+      internalID: 1090420720943878993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d973091a3636760800000000000000
+      internalID: 7449907754161380738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850a2709a1d293030800000000000000
+      internalID: 3474858179608879192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c497f9fb519ce7a80800000000000000
+      internalID: -8467109154163558068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5973aa64ceed6bf80800000000000000
+      internalID: -8091034574145308779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5597cfb51bc6a0b80800000000000000
+      internalID: -8427804243662177963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8203c80c8616060800000000000000
+      internalID: 6944947276576991430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455df0e10847b6d10800000000000000
+      internalID: 2119916143216940372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539c814deebdf27e0800000000000000
+      internalID: -1787968708235704011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3732f114c9fc4e570800000000000000
+      internalID: 8495143067142005619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee4d25babce8ee90800000000000000
+      internalID: -6996081734472347925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44445584d61509ec0800000000000000
+      internalID: -3562257775443229628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268f6df82c58d8210800000000000000
+      internalID: 1336871735082285154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robbie_walk-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941cbd459ac6d5d30800000000000000
+      internalID: 4421809883676655945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
